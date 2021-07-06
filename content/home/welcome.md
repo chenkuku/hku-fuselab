@@ -12,5 +12,4 @@ design:
   columns: "1"
 hero_media: welcome.jpg
 ---
-
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+FUSE Lab aims to leverage geospatial big data, data-model fusion, and advanced interdisciplinary approaches to investigate the interaction loops between urban environmental change, human activities, and public health, with the ultimate goal of contributing to sustainable and healthy cities.
